@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anvbish
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning ml/ai
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
