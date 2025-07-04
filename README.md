@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anvbish
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on frontend projects
+- 📫 How to reach me bishnoianvesha19@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
